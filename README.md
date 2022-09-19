@@ -1,14 +1,11 @@
 ### Hi there 👋, I am Fabian Segura
-Languages
-Python
-FrontEnd 
-Kivy And KivyMD
+
 
 ```javascript
 const thai = {
   code: [Python, Java],
   tools: [MongoDB, RaspberryPi, Linux],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  frameworks and Mircocontrolers: ["Kivy","Arduino","MBED"],
   
  challenge: "I am learning new languages of code"
 }
