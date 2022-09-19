@@ -4,6 +4,16 @@ Python
 FrontEnd 
 Kivy And KivyMD
 
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Python, Java],
+  tools: [MongoDB, RaspberryPi, Linux],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  
+ challenge: "I am learning new languages of code"
+}
+```
 <!--
 **FabianSVega/FabianSVega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
