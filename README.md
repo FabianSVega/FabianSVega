@@ -1,4 +1,8 @@
 ### Hi there 👋, I am Fabian Segura
+Languages
+Python
+FrontEnd 
+Kivy And KivyMD
 
 <!--
 **FabianSVega/FabianSVega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
