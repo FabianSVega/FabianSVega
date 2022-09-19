@@ -6,7 +6,6 @@ Kivy And KivyMD
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
   code: [Python, Java],
   tools: [MongoDB, RaspberryPi, Linux],
   architecture: ["microservices", "event-driven", "design system pattern"],
