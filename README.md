@@ -5,7 +5,7 @@
 const thai = {
   code: [Python, Java],
   tools: [MongoDB, RaspberryPi, Linux],
-  frameworks and Mircocontrolers: ["Kivy","Arduino","MBED"],
+  others: ["Kivy","Arduino","MBED"],
   
  challenge: "I am learning new languages of code"
 }
