@@ -10,7 +10,7 @@ const thai = {
  challenge: "I am learning new languages of code"
 }
 ```
-<img source=README.md/![git](https://user-images.githubusercontent.com/104441426/191374120-5d832783-8b94-4d19-8045-cb2429f90fc4.png) width="200"height="200">
+<img source=README.md/![git](https://user-images.githubusercontent.com/104441426/191374120-5d832783-8b94-4d19-8045-cb2429f90fc4.png width="200"height="200")>
 
 
 ## <strong>My Tech Stack</strong>
