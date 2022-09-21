@@ -7,7 +7,8 @@ const thai = {
   tools: [MongoDB, RaspberryPi, Linux],
   others: ["Kivy","Arduino","MBED"],
   
- challenge: "I am learning new languages of code"
+ challenge: " learning new languages of code ando help other people in this way"
+
 }
 ```
 ![git](https://user-images.githubusercontent.com/104441426/191376754-c289087b-e496-46b0-a443-decbfb9003ef.png)
