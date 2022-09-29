@@ -43,7 +43,7 @@ const process = {
 
 <H3>________ Social Media ________</H3>  
 <div align="left">
-<a href="https://instagram.com/https://www.instagram.com/kevin_2495_/?hl=es-la" target="_blank">
+<a href="https://instagram.com/studiosfotof?igshid=YmMyMTA2M2Y==es-la" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
 <a href="https://www.linkedin.com/in/fabian-francisco-segura-vega-885514207" target="_blank">
