@@ -11,10 +11,12 @@ const thai = {
 
 }
 ```
-<img src =  https://user-images.githubusercontent.com/104441426/191376754-c289087b-e496-46b0-a443-decbfb9003ef.png  width= "450" height = 300 border = "20">
+<img align='left' src =  https://user-images.githubusercontent.com/104441426/191376754-c289087b-e496-46b0-a443-decbfb9003ef.png  width= "450" height = 300 border = "20">
 
 
-## <strong>My Tech Stack</strong>
+
+
+## <strong> Skills with Frontend</strong>
 <a href="https://www.w3schools.com/html/">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
@@ -33,6 +35,7 @@ const thai = {
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+## <strong>Skills Backend</strong>
 <a href="https://www.java.com/en/">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </a>
