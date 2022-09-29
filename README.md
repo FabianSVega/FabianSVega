@@ -16,7 +16,7 @@ const thai = {
 
 
 
-## <strong> Skills with Frontend</strong>
+## <strong> Skills on Frontend</strong>
 <a href="https://www.w3schools.com/html/">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
@@ -35,7 +35,7 @@ const thai = {
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-## <strong>Skills Backend</strong>
+## <strong>Skills on Backend</strong>
 <a href="https://www.java.com/en/">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </a>
