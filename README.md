@@ -11,7 +11,7 @@ const thai = {
 
 }
 ```
-![git](https://user-images.githubusercontent.com/104441426/191376754-c289087b-e496-46b0-a443-decbfb9003ef.png  width: 100 height: 100 border: 20)
+<img src =  https://user-images.githubusercontent.com/104441426/191376754-c289087b-e496-46b0-a443-decbfb9003ef.png  width= "450" height = 300 border = "20">
 
 
 ## <strong>My Tech Stack</strong>
