@@ -10,7 +10,7 @@ const process = {
  challenge: " learn new languages of code and help other people in this way"
 }
 ```
-<img align='left' src =  https://user-images.githubusercontent.com/104441426/191376754-c289087b-e496-46b0-a443-decbfb9003ef.png  width= "450" height = 350 border = "20">
+<img align='left' src =  https://user-images.githubusercontent.com/104441426/191376754-c289087b-e496-46b0-a443-decbfb9003ef.png  width= "450" height = 300 border = "20">
 
 
 
