@@ -40,10 +40,9 @@ const process = {
 
 <a href="https://github.com">
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> 
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+<img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>  
 </a>
-
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
  
 
 <H3>________ Social Media ________</H3>  
